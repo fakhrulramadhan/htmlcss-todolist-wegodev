@@ -36,4 +36,5 @@ body, html{
 
 .frame {
     border: 1px solid #484848;
+    height: 100%;
 }
